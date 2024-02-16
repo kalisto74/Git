@@ -7,8 +7,8 @@ git config --global user.name 'вашеимя'
 git config --global user.email 'вашапочта'
 
 # в локальном проекте
-git config --local user.name 'Kalisto74'
-git config --local user.email 'kalisto999@gmail.com'
+git config --local user.name 'вашеимя'
+git config --local user.email 'вашапочта'
 
 git status
 
